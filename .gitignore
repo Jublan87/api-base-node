@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Salida de compilación / bundles
+build/
+dist/
+
+# Archivos de log
+*.log
+
+# Información de compilación de TypeScript
+*.tsbuildinfo
+
+# Variables de entorno
+.env
+.env.*
+
+# Archivos de npm
+package-lock.json 
